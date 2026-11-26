@@ -1,0 +1,14 @@
+html {
+  min-width: 320px;
+  min-height: 100%;
+  background: #fbfaf7;
+}
+
+body {
+  min-height: 100vh;
+}
+
+button {
+  -webkit-appearance: none;
+  appearance: none;
+}
